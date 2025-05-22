@@ -100,16 +100,4 @@ You can add support for screenshot capturing on failure using TestNG Listeners a
 
 ---
 
-## 📌 Author
-
-Developed by **Mousa AbuKhaled**  
-Feel free to contact or fork the project for enhancements.
-
----
-
-## 📜 License
-
-This project is open-source and available for free use in educational or testing contexts.
-
-```
 
